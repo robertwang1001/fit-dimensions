@@ -21,7 +21,7 @@ function isNonNegativeNumber(...args: number[]) {
  *
  * @returns `{ width: number, height: number, x: number, y: number }` (`x` and `y` are the position used to center the fitted rectangle)
  *
- * @see https://github.com/GloryWong/fit-dimensions#readme
+ * @see https://github.com/robertwang1001/fit-dimensions#readme
  */
 export function fitDimensions(srcWidth: number, srcHeight: number, maxWidth: number, maxHeight: number, mode: FitDimensionsMode = 'contain'): FitDimensionsReturn {
   if (!isNonNegativeNumber(srcWidth, srcHeight, maxWidth, maxHeight)) {

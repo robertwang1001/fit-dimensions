@@ -1,14 +1,14 @@
 <h1 align="center">Welcome to fit-dimensions 👋</h1>
 
-![GitHub License](https://img.shields.io/github/license/GloryWong/fit-dimensions)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/GloryWong/fit-dimensions)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/GloryWong/fit-dimensions/release.yml)
-![GitHub Release](https://img.shields.io/github/v/release/GloryWong/fit-dimensions)
-![GitHub Release Date](https://img.shields.io/github/release-date/GloryWong/fit-dimensions)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/GloryWong/fit-dimensions)
-![GitHub watchers](https://img.shields.io/github/watchers/GloryWong/fit-dimensions)
-![GitHub forks](https://img.shields.io/github/forks/GloryWong/fit-dimensions)
-![GitHub Repo stars](https://img.shields.io/github/stars/GloryWong/fit-dimensions)
+![GitHub License](https://img.shields.io/github/license/robertwang1001/fit-dimensions)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/robertwang1001/fit-dimensions)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/robertwang1001/fit-dimensions/release.yaml)
+![GitHub Release](https://img.shields.io/github/v/release/robertwang1001/fit-dimensions)
+![GitHub Release Date](https://img.shields.io/github/release-date/robertwang1001/fit-dimensions)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/robertwang1001/fit-dimensions)
+![GitHub watchers](https://img.shields.io/github/watchers/robertwang1001/fit-dimensions)
+![GitHub forks](https://img.shields.io/github/forks/robertwang1001/fit-dimensions)
+![GitHub Repo stars](https://img.shields.io/github/stars/robertwang1001/fit-dimensions)
 ![NPM Version](https://img.shields.io/npm/v/fit-dimensions)
 ![NPM Type Definitions](https://img.shields.io/npm/types/fit-dimensions)
 ![NPM Downloads](https://img.shields.io/npm/dw/fit-dimensions)
@@ -85,24 +85,13 @@ const fit = fitDimensions(800, 600, 400, 400, 'contain')
 // fit = { width: 400, height: 300, x: 0, y: 50 }
 ```
 
-## Authors
+## Contributing
 
-👤 **GloryWong**
-
-* Website: https://glorywong.com
-* GitHub: [@GloryWong](https://github.com/GloryWong)
-
-## Show Your Support
+Contributions are welcome! If you have ideas, bug fixes, or improvements, please open an issue or submit a pull request on the
+[GitHub repository](https://github.com/robertwang1001/fit-dimensions).
 
 Give a ⭐️ if this project helped you!
 
-## Contributing
-
-Contributions are welcome! If you have ideas, bug fixes, or improvements, please
-Open an issue or submit a pull request on the
-[GitHub repository](https://github.com/GloryWong/fit-dimensions).
-
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more
-details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
