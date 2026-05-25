@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/robertwang1001/fit-dimensions/compare/v2.0.1...v2.0.2) (2026-05-25)
+
+
+### Bug Fixes
+
+* clean up and upgrade deps ([d134dbe](https://github.com/robertwang1001/fit-dimensions/commit/d134dbeee71d58cbccfca174846eaa2071018998))
+
 ## [2.0.1](https://github.com/GloryWong/fit-dimensions/compare/v2.0.0...v2.0.1) (2026-04-28)
 
 
