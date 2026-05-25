@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.3](https://github.com/robertwang1001/fit-dimensions/compare/v2.0.2...v2.0.3) (2026-05-25)
+
+
+### Bug Fixes
+
+* release provenance ([7cb1c5d](https://github.com/robertwang1001/fit-dimensions/commit/7cb1c5dc490f07eaaf6f32d4e3c76f1e68bb3489))
+
 ## [2.0.2](https://github.com/robertwang1001/fit-dimensions/compare/v2.0.1...v2.0.2) (2026-05-25)
 
 
