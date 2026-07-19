@@ -2,7 +2,7 @@
   "name": "fit-dimensions",
   "type": "module",
   "version": "2.0.3",
-  "packageManager": "pnpm@11.11.0+sha512.4463f65fd80ed80d69bc1d4bf163ee94f605c7380fc318bb5b2ebe15f8cd12d49c51a4d59e951b401e764d3b6ca751cbf51bc50ed7001a6bcb4935e684c34882",
+  "packageManager": "pnpm@11.13.1+sha512.b2fc7683b8a6525414e7d13e1ba28caaddde96bf66ec540bfaeb7e702b81f3e0be4d1f295edf7f9fe0396740a8dce4509c582ddf79891f4543fea32d37645f25",
   "description": "A tiny utility function to fit a source rectangle within a target rectangle using popular object-fit modes (contain, cover, fill, none, scale-down). Maintains aspect ratio as needed. Useful for images, videos, UI elements, and more.",
   "author": {
     "name": "Robert Wang",
@@ -53,7 +53,7 @@
     "@commitlint/config-conventional": "^21.2.0",
     "@tsconfig/node24": "^24.0.4",
     "@vitest/coverage-istanbul": "^4.1.10",
-    "eslint": "^10.6.0",
+    "eslint": "^10.7.0",
     "lint-staged": "^17.0.8",
     "simple-git-hooks": "^2.13.1",
     "typescript": "^6.0.3",
