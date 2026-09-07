@@ -2,7 +2,7 @@
   "name": "fit-dimensions",
   "type": "module",
   "version": "2.0.3",
-  "packageManager": "pnpm@11.22.0+sha512.1ff870c4c6133dfd88fb2afc46dd13d47f09c9794b438c6fdb47ca98caf3bc16381ee0be93a091b8e3824cf01f889f46d7d9e20910fb0be1ab0fb5baa80dd621",
+  "packageManager": "pnpm@12.3.2+sha512.82f9035314646eea981adec85c711a21ab5f3b05659b3f9ce9d270cbb93e8a0f614da17922bae097902e2b860ee8eb6d5c1a7e89299a16877c0c243f36b8e15b",
   "description": "A tiny utility function to fit a source rectangle within a target rectangle using popular object-fit modes (contain, cover, fill, none, scale-down). Maintains aspect ratio as needed. Useful for images, videos, UI elements, and more.",
   "author": {
     "name": "Robert Wang",
