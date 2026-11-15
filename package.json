@@ -51,7 +51,7 @@
     "@antfu/eslint-config": "^9.5.1",
     "@commitlint/cli": "^21.2.4",
     "@commitlint/config-conventional": "^21.2.4",
-    "@tsconfig/node24": "^24.0.5",
+    "@tsconfig/node24": "^24.0.6",
     "@vitest/coverage-istanbul": "^4.1.12",
     "eslint": "^10.14.0",
     "lint-staged": "^17.6.0",
